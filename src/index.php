@@ -610,6 +610,16 @@ session_start();
      scrollRevelation('.card');
   });
 </script>
+<script>
+    function myFunction() {
+    var x = document.getElementById("yoProgramo-HoracioCesarLopez.mp4");
+    }
+  </script>
+	<video src= "./assets/video/trabajointegrador.mp4" width=100%  height=745 controls autoplay loop="trabajointegrador.mp4">
+    <video autoplay loop *ngIf="src" class="thumbnail">
+      <source [src]="src" [type]="type">
+    </video> 
+  </video>
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
 <script>
   (function (i, s, o, g, r, a, m) {
