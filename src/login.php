@@ -15,7 +15,7 @@ session_start();
   <meta charset="UTF-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="100%" name="viewport">
-  <title>Portfolio-Horacio Lopez</title>
+  <title>Horacio Lopez</title>
   <link href="./main.d8e0d294.css" rel="stylesheet">
 </head>
 <body>
